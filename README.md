@@ -6,7 +6,7 @@
 * [0x03-shell_variables_expansion](./0x03-shell_variables_expansion)
 ----
 * ### Shell Basics ###
-  * [0x00-shell_basics](./0x00-shell_basics): shell is a program that takes commands from the keyboard and gives them to the operating system to perform. In the old days, it was the only user interface available on a Unix-like system such as [Linux](https://www.linux.com/what-is-linux/). Nowadays, we have [graphical user interfaces](https://www.javatpoint.com/gui-operating-system) `GUIs` in addition to [command line interfaces](https://en.wikipedia.org/wiki/Command-line_interface) (CLIs) such as the [shell.](https://en.wikipedia.org/wiki/Shell_(computing))
+  * [0x00-shell_basics](./0x00-shell_basics): shell is a program that takes commands from the keyboard and gives them to the operating system to perform. In the old days, it was the only user interface available on a Unix-like system such as [Linux](https://www.linux.com/what-is-linux/). Nowadays, we have [graphical user interfaces](https://www.javatpoint.com/gui-operating-system) `GUIs` in addition to [command line interfaces](https://en.wikipedia.org/wiki/Command-line_interface) `CLIs` such as the [shell.](https://en.wikipedia.org/wiki/Shell_(computing))
 * ### Shell Permissions ###
   * [0x01-shell_permissions](./0x01-shell_permissions): The [Unix-like operating systems](https://en.wikipedia.org/wiki/Unix-like#:~:text=Some%20well%2Dknown%20examples%20of,used%20on%20Unix%2Dlike%20systems.), such as [Linux](https://www.linux.com/what-is-linux/) differ from other computing systems in that they are not only multitasking but also multi-user.
 * ### Shell Redirections ###
