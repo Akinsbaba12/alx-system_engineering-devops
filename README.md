@@ -22,6 +22,6 @@
 ----
 
 ## WARNING!!🚨
-- In as much as you tempted to copy my work, I would strongly recommend you take time out to study and fully understand what software engineering is all about, it's not about graduating but about what you can do. '
+- In as much as you tempted to copy my work, I would strongly recommend you take time out to study and fully understand what software engineering is all about, it's not about graduating but about what you can do. 
 `Welcome to Doing Hard Things.`👨‍💻 
 
