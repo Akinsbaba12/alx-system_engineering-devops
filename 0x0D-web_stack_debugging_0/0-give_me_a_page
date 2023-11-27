@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+# fixes an apache server in a container
+sudo apt install apache2
+echo 'Hello Holberton' > /var/www/index.html
+sudo service apache2 restart
