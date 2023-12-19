@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+# in this task Fixsd a web server to run Nginx as the nginx user listening on port 8080.
+chmod 777 /etc/nginx/nginx.conf
+sed -i "1i user nginx;" /etc/nginx/nginx.conf
+sed -i 's/80/8080/' /etc/nginx/sites-enabled/default
+#chmod 777 /etc/nginx/nginx.conf
+pkill -f apache2
+sudo -u nginx -- service nginx restart
